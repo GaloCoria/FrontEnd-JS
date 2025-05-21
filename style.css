@@ -28,7 +28,7 @@ header nav ul {
     font-family: 'Roboto', sans-serif;
  }
   footer {
-    position: fixed;
+    
     bottom: 0;
     width: 100%;
     background-color: #0c75e6;
@@ -157,6 +157,7 @@ justify-content: center ;
   aspect-ratio: 16 / 9;    
   border: none;
   border-radius: 12px;      
+  margin-bottom: 40px;
 }
 .productos {
   padding: 40px 20px;
@@ -198,4 +199,7 @@ justify-content: center ;
 .producto p {
   font-weight: bold;
   color: #333;
+}
+.reseñas{
+   padding-top: 40px;
 }
